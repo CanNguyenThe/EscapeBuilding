@@ -1,0 +1,3 @@
+C:\Users\cnguy\OneDrive\Documents\GitHub\My Unreal Projects\EscapeBuilding\EscapeBuilding\Source\EscapeBuilding\EscapeBuilding.Build.cs
+C:\Users\cnguy\OneDrive\Documents\GitHub\My Unreal Projects\EscapeBuilding\EscapeBuilding\Source\EscapeBuilding.Target.cs
+C:\Users\cnguy\OneDrive\Documents\GitHub\My Unreal Projects\EscapeBuilding\EscapeBuilding\Source\EscapeBuildingEditor.Target.cs
